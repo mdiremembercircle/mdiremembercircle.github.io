@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mdiremembercircle"
+    }
+  },
+  "defaultProject": "mdiremembercircle",
+  "cli": {
+    "analytics": false
+  }
 }
